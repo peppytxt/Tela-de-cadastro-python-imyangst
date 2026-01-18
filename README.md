@@ -7,5 +7,5 @@
 - Tkinter
 - Sqlite3
 
-- 📌 Funcionalidade
+# 📌 Funcionalidade
 O projeto é composto por um gerenciamento de carros e funcionários, onde é cadastrado funcionários e cada carro é gerenciado por um funcionário em uma tabela ou sistema.
